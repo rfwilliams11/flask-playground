@@ -18,7 +18,12 @@ books = [
      'title': 'Dhalgren',
      'author': 'Samuel R. Delany',
      'first_sentence': 'to wound the autumnal city.',
-     'published': '1975'}
+     'published': '1975'},
+    {'id': 3,
+     'title': 'The Three Body Problem',
+     'author': 'Liu Cixin',
+     'first_sentence': 'The Red Union had been attacking the headquarters of the April Twenty-eighth Brigade for two days. ',
+     'published': '2008'}
 ]
 
 #Home route
